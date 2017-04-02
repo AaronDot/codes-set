@@ -17,3 +17,7 @@ project-graduation:
 project-contacts:
 
 	It is a contacts table with some operations. Such as add, delete, modify and so on.
+
+project-chat:
+
+	It is a little chat program, and it also can transfer files.
