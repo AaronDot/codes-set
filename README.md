@@ -53,3 +53,7 @@ book-tlpi:
 		  that available in the book version. (Generally, the book version was made shorter so that
 		  it occupied less page space in the book, while still being sufficient to demonstrate the
 		  essential concepts.)
+
+book-ywm:
+
+	The source code of Data Struct written by WeiMing Yan.
