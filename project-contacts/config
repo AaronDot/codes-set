@@ -1,0 +1,20 @@
+#
+#	config
+#
+#	 Created on: 2010-7-29
+#		Author: Antonio Zhou
+#
+databaseEnable=no
+fileSystemEnable=yes
+
+#databaseConfig
+username=root
+password=901109
+host=localhost
+port=3306
+databaseName=stu
+
+#fileSystemconfig
+filePath=/data1.dat
+exportPath=./contact.txt
+

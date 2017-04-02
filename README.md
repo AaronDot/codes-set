@@ -13,3 +13,7 @@ project-graduation:
 	At last the programming environment is Keil uVision4.
 	It can real time monitoring more than one places and alarm through the phone number
 	setting by owner if the place have unusual things.
+
+project-contacts:
+
+	It is a contacts table with some operations. Such as add, delete, modify and so on.
