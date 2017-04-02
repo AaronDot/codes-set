@@ -21,3 +21,7 @@ project-contacts:
 project-chat:
 
 	It is a little chat program, and it also can transfer files.
+
+project-studentinfo:
+
+	It is a student infomation table and it's operations via net socket.
