@@ -62,15 +62,31 @@ book-unp:
 
 	The source code of UNIX Network Programming(The 3rd version)
 
-	This book is for people who want to write programs that communicate with each other using an application
-	program interface (API) known as sockets. Some readers may be very familiar with sockets already,
-	as that model has become synonymous with network programming. Others may need an introduction to sockets
-	from the ground up. The goal of this book is to offer guidance on network programming for beginners
-	as well as professionals, for those developing new network-aware applications as well as those maintaining
-	existing code, and for people who simply want to understand how the networking components of their system function.
+	This book is for people who want to write programs that communicate with each other using an
+	application program interface (API) known as sockets. Some readers may be very familiar with
+	sockets already, as that model has become synonymous with network programming. Others may need an
+	introduction to sockets from the ground up. The goal of this book is to offer guidance on network
+	programming for beginners as well as professionals, for those developing new network-aware applications
+	as well as those maintaining existing code, and for people who simply want to understand how the networking
+	components of their system function.
 
 	All the examples in this text are actual, runnable code tested on Unix systems. However, many non-Unix systems
 	support the sockets API and the examples are largely operating system-independent, as are the general concepts
 	we present. Virtually every operating system (OS) provides numerous network-aware applications such as Web browsers,
-	email clients, and file-sharing servers. We discuss the usual partitioning of these applications into client and server
-	and write our own small examples of these many times throughout the text.
+	email clients, and file-sharing servers. We discuss the usual partitioning of these applications into client and
+	server and write our own small examples of these many times throughout the text.
+
+book-apue:
+
+	The source code of Advanced Programming in the UNIX Environment(The 3rd version)
+
+	The third edition of Advanced Programming in the UNIX® Environment has been updated to reflect contemporary
+	operating systems and recent changes in standards. Obsolete material has been removed, except where that material
+	provides a useful historical perspective. The four platforms used to test the examples in the book include FreeBSD 8.0,
+	Linux 3.2.0, Mac OS X 10.6.8 and Solaris 10. These platforms are a moving target, and most likely there are newer versions
+	available now, so your mileage may vary.
+
+	Major changes include the addition of POSIX asynchronous I/O, POSIX semaphores, spin locks, and barriers. In total,
+	more than 70 new interfaces are covered. In addition, most of the STREAMS-related material was removed, because STREAMS
+	interfaces are now considered to be obsolescent by the Single UNIX Specification. If you need information about STREAMS
+	programming, check out UNIX System V Network Programming.
